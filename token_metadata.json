@@ -4,8 +4,8 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/khaneleven/well-fit/main/well-fit.png",
-        "type": "image/png"
+        "uri": "https://raw.githubusercontent.com/khaneleven/well-fit/main/logo.jpg",
+        "type": "image/jpeg"
       }
     ],
     "category": "image",
