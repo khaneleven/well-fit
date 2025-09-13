@@ -1,29 +1,5 @@
 {
   "name": "Well Fit",
   "symbol": "WFT",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/khaneleven/well-fit/main/logo.jpg",
-        "type": "image/jpeg"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "4K8Y8WNv5Tq7dKSQnDCddwTNkbLLNjJRntX4234jSVDf",
-        "share": 100
-      }
-    ]
-  },
-  "attributes": [
-    {
-      "trait_type": "Utility",
-      "value": "Fitness Rewards"
-    },
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
-    }
-  ]
+  "image": "https://github.com/khaneleven/well-fit/blob/main/logo.jpg?raw=true"
 }
