@@ -1,0 +1,29 @@
+{
+  "name": "Well Fit",
+  "symbol": "WFT",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/khaneleven/well-fit/main/well-fit.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4K8Y8WNv5Tq7dKSQnDCddwTNkbLLNjJRntX4234jSVDf",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Utility",
+      "value": "Fitness Rewards"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    }
+  ]
+}
